@@ -6,8 +6,10 @@ A simple Python script to convert all JPG files in a specified folder to PNG for
 
 1. Ensure you have Python 3 installed on your system.
 2. Open a terminal.
-3. Navigate to the directory containing the script.
-4. Run the script with the following command:
+3. Clone the script repo on your manchine:
+     ```git clone https://github.com/Mubarak1A/imageProcessor.git```
+4. Navigate to the directory containing the script.
+5. Run the script with the following command:
 
     ```bash
     python3 jpg_to_png_converter.py <Images_Folder> <Output_Folder>
